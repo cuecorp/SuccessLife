@@ -18,7 +18,7 @@ namespace SuccessLife
             var urlSource = new UrlWebViewSource();
              
             string url = DependencyService.Get<IBaseUrl>().Get();
-            string TempUrl = System.IO.Path.Combine(url, "login.html");
+            string TempUrl = System.IO.Path.Combine(url, "dashboard.html");
             urlSource.Url = TempUrl;
             bo.Source = urlSource;
             Content = bo;
