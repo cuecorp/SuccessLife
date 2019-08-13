@@ -808,9 +808,6 @@
     <AndroidAsset Include="Assets\successLife_project\membertopup.html" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\successLife_project\mydirect.html" />
-  </ItemGroup>
-  <ItemGroup>
     <AndroidAsset Include="Assets\successLife_project\pinreport.html" />
   </ItemGroup>
   <ItemGroup>
@@ -4489,6 +4486,10 @@
     <AndroidAsset Include="Assets\successLife_project\bower_components\morris.js\spec\viz\exemplary\bar0.png" />
     <AndroidAsset Include="Assets\successLife_project\bower_components\morris.js\spec\viz\exemplary\line0.png" />
     <AndroidAsset Include="Assets\successLife_project\bower_components\morris.js\spec\viz\exemplary\stacked_bar0.png" />
+    <AndroidAsset Include="Assets\successLife_project\register.html" />
+    <AndroidAsset Include="Assets\successLife_project\login.html" />
+    <AndroidAsset Include="Assets\successLife_project\mydirect.html" />
+    <AndroidAsset Include="Assets\successLife_project\profile.html" />
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\successLife_project\bower_components\moment\moment.d.ts" />

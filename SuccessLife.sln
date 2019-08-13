@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuccessLife.Android", "Succ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuccessLife.iOS", "SuccessLife\SuccessLife.iOS\SuccessLife.iOS.csproj", "{8ABA3608-6372-4DB3-9C4A-E6D724A10DF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuccessLife", "SuccessLife\SuccessLife\SuccessLife.csproj", "{208F4C72-A966-47A5-A38A-83316FE45F3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuccessLife", "SuccessLife\SuccessLife\SuccessLife.csproj", "{208F4C72-A966-47A5-A38A-83316FE45F3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
